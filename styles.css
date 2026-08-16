@@ -1,0 +1,42 @@
+body {
+    font-family: arial, bold;
+}
+
+h1 {
+    margin-bottom: 0;
+    text-indent: 600px;
+}
+
+h4 {
+    margin-top: 0;
+    text-indent: 742px;
+}
+
+h5 {
+    margin-top: 0;
+    text-indent: 460px;
+}
+
+
+details p {
+    margin-top: 0;
+}
+
+details p {
+    margin-top: 0;
+    margin-left: 42px;
+}
+
+
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #03005a;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.boton:hover {
+    background-color: #ffff00;
+}
